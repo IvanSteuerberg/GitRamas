@@ -6,6 +6,7 @@ package excod1av;
 public class Exp {
     
   public void saludo(){
-    System.out.println("Hola!");    
+    System.out.println("Hola!");
+      System.out.println("Adios!!");
   }    
 }
